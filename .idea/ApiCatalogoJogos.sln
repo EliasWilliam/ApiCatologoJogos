@@ -1,0 +1,22 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCatalogoJogos", "ApiCatalogoJogos\ApiCatalogoJogos.csproj", "{9E5D8C7E-1436-4DAE-8068-6D2292B718C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5D8C7E-1436-4DAE-8068-6D2292B718C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5D8C7E-1436-4DAE-8068-6D2292B718C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5D8C7E-1436-4DAE-8068-6D2292B718C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5D8C7E-1436-4DAE-8068-6D2292B718C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B78F777-C06C-4556-B587-7AD5378E04EE}
+	EndGlobalSection
+EndGlobal
